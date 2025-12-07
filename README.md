@@ -12,7 +12,7 @@ Uptime monitoring for [Tendral Health](https://tendralhealth.com), powered by
 <!-- prettier-ignore -->
 | URL | Status | History | Uptime |
 | --- | ------ | ------- | ------ |
-| [Tendral Health](https://tendralhealth.com) | 🟩 Up | [tendral-health.yml](https://github.com/tendral-health/tendral-status/commits/HEAD/history/tendral-health.yml) | 100.00% |
+| [Tendral Health](https://tendralhealth.com) | 🟩 Up | [tendral-health.yml](https://github.com/epaynter/tendral-status/commits/HEAD/history/tendral-health.yml) | 100.00% |
 
 <!--end: status pages-->
 
