@@ -1,6 +1,6 @@
 # Tendral Health Status
 
-Uptime monitoring for [Tendral Health](https://tendral.com), powered by
+Uptime monitoring for [Tendral Health](https://tendralhealth.com), powered by
 [Upptime](https://upptime.js.org).
 
 ## Live Status
@@ -12,13 +12,13 @@ Uptime monitoring for [Tendral Health](https://tendral.com), powered by
 <!-- prettier-ignore -->
 | URL | Status | History | Uptime |
 | --- | ------ | ------- | ------ |
-| [Tendral Health](https://tendral.com) | 🟩 Up | [tendral-health.yml](https://github.com/tendral-health/tendral-status/commits/HEAD/history/tendral-health.yml) | 100.00% |
+| [Tendral Health](https://tendralhealth.com) | 🟩 Up | [tendral-health.yml](https://github.com/tendral-health/tendral-status/commits/HEAD/history/tendral-health.yml) | 100.00% |
 
 <!--end: status pages-->
 
 ## How It Works
 
-- GitHub Actions checks [tendral.com](https://tendral.com) every 5 minutes
+- GitHub Actions checks [tendralhealth.com](https://tendralhealth.com) every 5 minutes
 - Response time and uptime data is committed to this repository
 - Status is displayed at [tendral.com/status](https://tendral.com/status)
 
