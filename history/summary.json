@@ -1,22 +1,20 @@
 [
   {
     "name": "Tendral Health",
-    "url": "https://tendral.com",
-    "icon": "https://icons.duckduckgo.com/ip3/tendral.com.ico",
+    "url": "https://www.tendralhealth.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.tendralhealth.com.ico",
     "slug": "tendral-health",
-    "status": "down",
-    "uptime": "1.56%",
-    "uptimeDay": "1.56%",
-    "uptimeWeek": "1.56%",
-    "uptimeMonth": "1.56%",
-    "uptimeYear": "1.56%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-12-07": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 314,
+    "timeDay": 314,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
+    "dailyMinutesDown": {}
   }
 ]
