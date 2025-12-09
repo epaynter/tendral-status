@@ -4,17 +4,19 @@
     "url": "https://www.tendralhealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tendralhealth.com.ico",
     "slug": "tendral-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 887,
-    "timeWeek": 544,
-    "timeMonth": 544,
-    "timeYear": 544,
-    "dailyMinutesDown": {}
+    "time": 472,
+    "timeDay": 382,
+    "timeWeek": 472,
+    "timeMonth": 472,
+    "timeYear": 472,
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
   }
 ]
