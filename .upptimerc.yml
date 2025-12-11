@@ -3,4 +3,6 @@ repo: tendral-status
 
 sites:
   - name: Tendral Health
-    url: https://www.tendralhealth.com
+    url: https://www.tendralhealth.com/status
+    expectedStatusCodes:
+      - 200
