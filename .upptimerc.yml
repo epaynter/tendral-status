@@ -6,3 +6,5 @@ sites:
     url: https://www.tendralhealth.com/api/ping
     expectedStatusCodes:
       - 200
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; Upptime/1.0; +https://github.com/epaynter/tendral-status)"
